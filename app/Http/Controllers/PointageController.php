@@ -4,16 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Emploicour;
-use App\Matiere;
-use App\Groupe;
-use App\Professeur;
-use App\Salle;
-use App\Classe;
-use App\Jour;
-use App\Departement;
-use App\Filiere;
 use App\Semestrecourant;
-use DB;
+use Illuminate\Support\Facades\DB;
 use Barryvdh\DomPDF\Facade as PDF;
 
 
