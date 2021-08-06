@@ -1,0 +1,32 @@
+
+ *{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+font-size: 20px;
+
+ }
+ body{ 
+  background-color: #6ED1AD;   
+     }
+.form{
+	
+	margin-left:30%;
+    font-size: 19px;
+padding-top: 5%;
+}
+
+legend{
+font-size: 19px;
+
+}
+
+select{
+	font-size: 15px;
+	 border:1px solid #4195fc;
+      box-shadow:0px 0px 4px #4195fc;
+      width: 25%;
+      padding: 5px 10px;
+      margin: 3px 0;
+      box-sizing: border-box;
+}
